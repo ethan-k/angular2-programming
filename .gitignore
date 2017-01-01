@@ -1,0 +1,13 @@
+
+/hello-ng2
+/quickstart
+*/**/node_modules
+
+
+debug.log
+/.vscode
+
+# Compiled file
+*/**/*/*.js.map
+*/**/*/*.spec.ts
+*/**/*/*.js
